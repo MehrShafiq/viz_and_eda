@@ -1,0 +1,10 @@
+---
+title: "viz_and_eda"
+output: github_document
+---
+
+```{r}
+library(tidyverse)
+library(ggridges)
+```
+
